@@ -1,0 +1,1 @@
+window.VOIDSHARD_CONFIG={downloads:{enabled:true},projects:{projectOne:{downloadEnabled:true,downloadLabel:"Experimental Download",downloadUrl:"https://mlltalrpwpuzmywepelq.supabase.co/storage/v1/object/public/Executables/readme.txt"}}};
